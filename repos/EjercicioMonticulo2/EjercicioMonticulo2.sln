@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EjercicioMonticulo2", "EjercicioMonticulo2\EjercicioMonticulo2.vcxproj", "{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Debug|x64.ActiveCfg = Debug|x64
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Debug|x64.Build.0 = Debug|x64
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Debug|x86.ActiveCfg = Debug|Win32
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Debug|x86.Build.0 = Debug|Win32
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Release|x64.ActiveCfg = Release|x64
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Release|x64.Build.0 = Release|x64
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Release|x86.ActiveCfg = Release|Win32
+		{638E6B7A-B1CD-4B12-B8E7-E0FB25B38EC9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F0EE64-A1C0-4D59-93CB-8684B705F2D0}
+	EndGlobalSection
+EndGlobal
